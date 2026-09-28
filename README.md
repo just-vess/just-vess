@@ -51,7 +51,7 @@
 ## Connect with Me
 <p align="center">
   <a href="mailto:vinhthuy0710@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hello I'm Vess's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/840981169571"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wa.me/840818666755"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <p align="center">
